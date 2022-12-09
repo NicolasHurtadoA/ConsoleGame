@@ -1,2 +1,2 @@
-# ZombieConsoleGame
+# ConsoleGame
 # 
